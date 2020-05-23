@@ -135,4 +135,8 @@ a:active {
     #type {
         width: 100%;
     }
+
+    p {
+        width: 95%;
+    }
 }
