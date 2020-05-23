@@ -84,7 +84,7 @@ YARC members are free to use the YARC logos under the [Creative Commons Attribut
 
 Use this when the "WY4RC" is large enough to be easily read.
 
-#### Download
+###### Download
 * [SVG](svg/yarc-logo.svg)
 * [PNG](png/yarc-logo.png)
 
@@ -94,7 +94,7 @@ Use this when the "WY4RC" is large enough to be easily read.
 
 The large logo can also include the YARC website URL.
 
-#### Download
+###### Download
 * [SVG](svg/yarc-logo-promo.svg)
 * [PNG](png/yarc-logo-promo.png)
 
@@ -104,7 +104,7 @@ The large logo can also include the YARC website URL.
 
 Use this when the "WY4RC" in the large logo is not large enough to be easily read.
 
-#### Download
+###### Download
 * [SVG](svg/yarc-logo-small.svg) 
 * [PNG](png/yarc-logo-sm.png)
 
@@ -115,7 +115,7 @@ Use this when the "WY4RC" in the large logo is not large enough to be easily rea
 Use this in simple and monochrome contexts (e.g. print). It should *only* be used in the official black and white colours digitally. In print, use full black and full white. Versions with and without
 the background colour are available.
 
-#### Download
+###### Download
 * [SVG](svg/yarc-logo-bw.svg)
 * [PNG (black on white)](png/yarc-logo-bw.png)
 * [PNG (black on transparent)](png/yarc-logo-b-nobg.png)
