@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:500|Roboto+Slab:400,700|Roboto:400,400i,500,500i');
+
+/* overall */
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 12pt;
+    background-color: #f2f2f2;
+    color: #121212;
+    height: 100%;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Roboto Slab', Helvetica, sans-serif;
+    font-size: 28pt;
+    font-weight: 800;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Roboto Slab', Helvetica, sans-serif;
+    font-size: 24pt;
+    font-weight: 400;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 20pt;
+    font-weight: 500;
+}
+
+h4 {
+    text-align: center;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 18pt;
+    font-weight: 500;
+    font-style: italic;
+}
+
+h5 {
+    text-align: center;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 15pt;
+    font-weight: 400;
+}
+
+h6 {
+    text-align: center;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 15pt;
+    font-weight: 400;
+    font-style: italic;
+    margin: 0;
+}
+
+p {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+img {
+    max-width: 90%;
+}
+
+table {
+    border: 0;
+    border-spacing: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#colours td {
+    padding: 15px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* logo */
+#logo-container {
+    text-align: center;
+    padding-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo {
+    width: 20%;
+    max-width: 256px;
+}
+
+.container {
+    padding: 2%;
+}
+
+/* link */
+a:link {
+    color: #3d69de;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #7415e3;
+    text-decoration: none;
+}
+
+a:hover, a:visited:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+/* responsivity */
+@media only screen and (max-width: 768px) {
+    #logo {
+        width: auto;
+        height: 128px;
+    }
+
+    #type {
+        width: 100%;
+    }
+}

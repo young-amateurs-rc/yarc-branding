@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+title: YARC Branding
+
+home_url: https://www.yarc.world
+
+logo_url: img/logos/yarc-logo-sm.png
+
+exclude:
+    - README.md
