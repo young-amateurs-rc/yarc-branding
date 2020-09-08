@@ -15,13 +15,11 @@
         <link rel="manifest" href="favicon/site.webmanifest">
     </head>
     <body>
-        <div id="logo-container">
-            <a href="{{ site.home_url }}">
-                <img id="logo" src="{{ site.logo_url }}" alt="Logo">
-            </a>
-        </div>
-
         <div class="container">
+            <div id="breadcrumbs">
+                <img id="logo" src="/{{ site.logo_url }}" alt="Logo">
+                <p><a href="{{ site.home_url }}">YARC</a> / Branding</p>
+            </div>
             {{ content }}
         </div>
     </body>
